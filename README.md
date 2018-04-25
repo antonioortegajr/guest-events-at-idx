@@ -1,4 +1,4 @@
-# guest-events-at-idx
+# Guest Events at IDX
 Transparency document for guest events at IDX 
 
 IDX Broker does allow certain meet ups to meet, present, and enjoy our dowstairs space on Broadway. This document is promote transparancy or the ofering.
