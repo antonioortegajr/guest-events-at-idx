@@ -17,4 +17,4 @@ IDX Broker does allow certain meet ups to meet up, present, and just enjoy our d
 * Meetings must be over by 8:00 pm.
 * IDX may not be avaiable every month as IDX events will take priorty.
 * Leave the area as you found it.
-
+* Use only approved entrances and exits
