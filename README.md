@@ -9,7 +9,7 @@ IDX Broker allows certain meet ups to meet up, present, and enjoy our downstairs
 * At least one employee from IDX will be on site at all times.
 * At least two week's notice will be given should the space become unavailable for any reason.
 * Drink all the IDX-provided fountain drinks as you like.
-* IDX allows Use of the TVs and audio systems for presentations.
+* IDX allows use of the TVs and audio systems for presentations.
 * IDX Guest WiFi is available upon request.
 
 ## Expectations for Guest Meet Up
@@ -19,4 +19,6 @@ IDX Broker allows certain meet ups to meet up, present, and enjoy our downstairs
 * IDX may not be available every month as IDX events will take priority.
 * Leave the area as you found it.
 * Use only approved entrances and exits.
+
+Contact IDX to set up a guest event or for any exceptions to these guidlines.
 
